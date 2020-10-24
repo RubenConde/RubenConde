@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="./spongebob.png" alt="Sponge Bob" />
+</p>
 
 <!--
 **RubenConde/RubenConde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
